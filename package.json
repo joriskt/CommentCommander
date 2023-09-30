@@ -1,0 +1,26 @@
+{
+  "name": "comment-commander",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joriskt/comment-commander.git"
+  },
+  "author": "",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/joriskt/comment-commander/issues"
+  },
+  "homepage": "https://github.com/joriskt/comment-commander#readme",
+  "dependencies": {
+    "probot": "^12.3.1"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
+  }
+}
